@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @joaogomes2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m lookingyt to collaborate on ...
-- 📫 How to reach me ...
+Acquisition on broken link in https://docs.salo.ai/salo-wildfire/resources/
 
-<!---
-joaogomes2/joaogomes2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+  - 👋 Hello, I'm a Hacker
+  
+  - 👀 I am interested in finding vulnerability on all websites owned by Planet Labs, Inc
+    
+  - 🌱 I am currently hacked on salo.ai
